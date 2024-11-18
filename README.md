@@ -22,3 +22,13 @@ This project provides time-series forecasting of stock prices and some other mis
    - Evaluate the quality of predictions using metrics such as Mean Squared Error (MSE).
 
 ---
+### Univariate Forecasting:
+
+<img width="951" alt="Skärmavbild 2024-11-18 kl  21 07 17" src="https://github.com/user-attachments/assets/bb91bf67-e1b4-4052-858d-3982a84de514">
+
+---
+### Anomaly Detection:
+
+<img width="917" alt="Skärmavbild 2024-11-18 kl  21 07 42" src="https://github.com/user-attachments/assets/4818efef-40ac-4b2f-91ed-45f5946a696e">
+
+
